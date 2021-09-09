@@ -1,0 +1,61 @@
+body{
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+    background-color:antiquewhite;
+    height: 100vh;
+}
+
+
+
+
+.buttons{
+padding: 15px 25px;
+background-color:white;
+text-decoration: none;
+border-radius: 20px;
+font-size: 14px;
+margin-right: 15px;
+}
+.text{
+    display: block;
+    text-transform: uppercase;
+
+}
+.btn-container{
+    text-align: center;
+    text-transform: uppercase;
+}
+.big{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px 0 10px 0;
+    font-weight: 700;
+    
+}
+.buttons:hover{
+background-color: brown;
+}
+.btn-1{
+color: blue;
+}
+.btn-2{
+color: green;
+}
+.btn-3{
+color: red;
+}
+
+
+
+
+
